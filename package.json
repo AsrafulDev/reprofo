@@ -1,5 +1,6 @@
-{
-  "name": "create-react-app",
+{ 
+  "homepage": "https://developershakil260.github.io/reprofo",
+  "name": "My-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
